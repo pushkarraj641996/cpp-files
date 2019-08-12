@@ -1,0 +1,7 @@
+1#Q.) What is the capital city of india? #A) Bangalore #B) New_Delhi #C) Mumbai #D) Noida #B
+#2#Q.) What is the heighest Mountain peek in the world? #A) Nandi_Hills #B) Mount_Everest #C) Mount Fuji #D) Mount_chuji #B
+#3#Q.) How many states are there in India? #A) 23 #B) 24 #C) 28 #D) 29 #D
+#4#Q.) Who is the prime minister of India? #A) Narendra_Modi #B) Mallika_Sherawat #C) Dhinchak_Pooja #D) Kamlesh #A
+#5#Q.) what is the national animal of India? #A) Rat #B) Tiger #C) Cow #D) Bull #B
+
+

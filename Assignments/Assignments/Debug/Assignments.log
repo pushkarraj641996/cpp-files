@@ -1,0 +1,5 @@
+﻿  Employee_exception.cpp
+C:\Users\PRaj\source\repos\Assignments\Assignments\Employee_exception.cpp(21,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\PRaj\source\repos\Assignments\Assignments\Employee_exception.cpp(22,1): error C3867:  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::length': non-standard syntax; use '&' to create a pointer to member
+C:\Users\PRaj\source\repos\Assignments\Assignments\Employee_exception.cpp(22,1): error C2446:  '<=': no conversion from 'int' to 'unsigned int (__thiscall std::basic_string<char,std::char_traits<char>,std::allocator<char>>::* )(void) noexcept const'
+C:\Users\PRaj\source\repos\Assignments\Assignments\Employee_exception.cpp(22,87): message :  There are no conversions from integral values to pointer-to-member values
